@@ -1,16 +1,19 @@
 ### Hi there 👋
-
 <!--
 **johangace/johangace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**:zap: Recent Activity:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+### I'm Johan, UX engineer, 
+[Portfolio Site](https://johangace.com/)
+
+- 🌉  I am bridging the worlds of Sofware Engineering and UX Design
+- 🌱  I’m  learning to build better prototypes and microservices, with Figma, Javascript and AWS.
+- 📫  Let's get in touch: [Linkedin](https://www.linkedin.com/in/gacejohan/) or email: gace.johan3@gmail.com
+- I enjoy reading 📚, running 🏃 , arts 🎨  and 🌲 nature 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
