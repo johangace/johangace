@@ -11,7 +11,7 @@
 [Portfolio Site](https://johangace.com/)
 
 
-- 🌉   I am bridging the worlds of Sofware Engineering and UX Design. 
+- 🌉  I bridge Sofware Engineering and UX Design. 
 - 🍎  I’m  learning to build better prototypes and microservices, with Figma, Javascript and AWS.
 - 📫   Let's get in touch: [Linkedin](https://www.linkedin.com/in/gacejohan/) or email: gace.johan3@gmail.com
 - I enjoy reading 📚, running 🏃 , arts 🎨  and 🌲 nature 
