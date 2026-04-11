@@ -9,7 +9,9 @@
 
 ### I'm Johan,
 [Portfolio Site](https://johangace.com/)
+
 [Studio ](https://naturate.io/)
+
 [Rewyld ](https://rewyld.earth/)
 
 
