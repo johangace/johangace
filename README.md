@@ -8,6 +8,9 @@
 <!--END_SECTION:activity-->
 
 ### I'm Johan,
+Founder, creator, nature guide.
+
+ 
 [Personal Site](https://johangace.com/)
 
 [Design Engineering Studio ](https://naturate.io/)
