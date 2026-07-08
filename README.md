@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 <!--
 **johangace/johangace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -8,11 +8,14 @@
 <!--END_SECTION:activity-->
 
 ### I'm Johan,
-[Portfolio Site](https://johangace.com/)
+[Personal Site](https://johangace.com/)
 
-[Studio ](https://naturate.io/)
+[Design Engineering Studio ](https://naturate.io/)
 
 [Rewyld ](https://rewyld.earth/)
+
+[WyldWalk](https://wyldwalk.io/)
+[Pointmoon](pointmoon.vercel.app)
 
 
 
